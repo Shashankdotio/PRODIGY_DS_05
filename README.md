@@ -16,4 +16,4 @@ Explore the repository, provide feedback, or reach out for discussions on data s
 For inquiries or collaboration opportunities, feel free to contact me:
 
 - Email: shashankvsdb@gmail.com
-- LinkedIn:  https://www.linkedin.com/in/shashankkamble97/ [shashankkamble97]
+- LinkedIn:  [shashankkamble97](https://www.linkedin.com/in/shashankkamble97)
